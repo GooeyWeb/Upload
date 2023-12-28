@@ -1,0 +1,41 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Dolnośląskie"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [14.574299, 51.060086],
+              [14.482117, 51.111284],
+              [14.552979, 51.165253],
+              [14.702148, 51.094727],
+              [14.574299, 51.060086]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kujawsko-Pomorskie"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [17.582397, 53.034340],
+              [17.370605, 53.119810],
+              [17.478027, 53.281498],
+              [17.680664, 53.211620],
+              [17.582397, 53.034340]
+            ]
+          ]
+        }
+      }
+    ]
+  }
