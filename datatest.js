@@ -1,0 +1,1 @@
+let currentData = ['abc','def','ghi'];
